@@ -165,6 +165,7 @@ ace.config.setModuleUrl('ace/mode/rst', require('file-loader?esModule=false!./sr
 ace.config.setModuleUrl('ace/mode/ruby', require('file-loader?esModule=false!./src-noconflict/mode-ruby.js'))
 ace.config.setModuleUrl('ace/mode/rust', require('file-loader?esModule=false!./src-noconflict/mode-rust.js'))
 ace.config.setModuleUrl('ace/mode/sac', require('file-loader?esModule=false!./src-noconflict/mode-sac.js'))
+ace.config.setModuleUrl('ace/mode/sas', require('file-loader?esModule=false!./src-noconflict/mode-sas.js'))
 ace.config.setModuleUrl('ace/mode/sass', require('file-loader?esModule=false!./src-noconflict/mode-sass.js'))
 ace.config.setModuleUrl('ace/mode/scad', require('file-loader?esModule=false!./src-noconflict/mode-scad.js'))
 ace.config.setModuleUrl('ace/mode/scala', require('file-loader?esModule=false!./src-noconflict/mode-scala.js'))

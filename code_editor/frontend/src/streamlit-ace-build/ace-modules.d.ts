@@ -166,6 +166,7 @@ declare module 'ace-builds/src-noconflict/mode-rst';
 declare module 'ace-builds/src-noconflict/mode-ruby';
 declare module 'ace-builds/src-noconflict/mode-rust';
 declare module 'ace-builds/src-noconflict/mode-sac';
+declare module 'ace-builds/src-noconflict/mode-sas';
 declare module 'ace-builds/src-noconflict/mode-sass';
 declare module 'ace-builds/src-noconflict/mode-scad';
 declare module 'ace-builds/src-noconflict/mode-scala';
@@ -433,3 +434,7 @@ declare module 'ace-builds/src-noconflict/snippets/xml';
 declare module 'ace-builds/src-noconflict/snippets/xquery';
 declare module 'ace-builds/src-noconflict/snippets/yaml';
 declare module 'ace-builds/src-noconflict/snippets/zeek';
+
+
+
+
